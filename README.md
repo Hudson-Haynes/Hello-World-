@@ -13,5 +13,8 @@
 # Italicized Syntax Option
 ### This is how you *italize* text 
 
-# Bold Syntax Option
-### This is how to **BOLD** text
+# Mistaken text Syntax Option
+### This is how to ~~cross something out if it is wronng~~
+
+# Subscript Syntax Option
+### This is <sub>subscript text</sub>
