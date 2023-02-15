@@ -8,3 +8,7 @@
 1. List item one
 2. List item two
 3. Final list item three
+
+
+# Bold Syntax Option
+### This is how you **bold** text 
