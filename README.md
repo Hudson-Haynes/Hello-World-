@@ -18,3 +18,10 @@
 
 # Subscript Syntax Option
 ### This is <sub>subscript text</sub>
+
+
+# Last Syntax Just For Fun: Bullet Pointed List
+### Here is a bullet pointed list
+- One bullet
+- Two bullets 
+- And three bullets
