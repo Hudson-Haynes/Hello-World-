@@ -10,5 +10,8 @@
 3. Final list item three
 
 
+# Italicized Syntax Option
+### This is how you *italize* text 
+
 # Bold Syntax Option
-### This is how you **bold** text 
+### This is how to **BOLD** text
